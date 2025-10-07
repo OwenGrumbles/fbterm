@@ -12,10 +12,9 @@ All instructions can be found at [draculatheme.com/fbterm](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/fbterm/graphs/contributors).
 
-| [![Owen Grumbles]([https://github.com/zenorocha.png](https://raw.githubusercontent.com/OwenGrumbles/owengrumbles/main/profile(2).jpg)?size=100)](https://github.com/OwenGrumbles) |  |
+| [![]([https://github.com/zenorocha.png](https://raw.githubusercontent.com/OwenGrumbles/owengrumbles/main/profile(2).jpg)?size=100)](https://github.com/OwenGrumbles) |  |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
-
+| [Owen Grumbles](https://github.com/OwenGrumbles)                                               | 
 ## Community
 
 - [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
