@@ -15,7 +15,7 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | [<img src="https://raw.githubusercontent.com/OwenGrumbles/owengrumbles/main/profile%282%29.jpg" height="100">](https://github.com/OwenGrumbles) |  |
 | ------------------------------------------------------------ | --- |
 | [Owen Grumbles](https://github.com/OwenGrumbles) | 
-                                          | 
+                                        
 
 ## Community
 
